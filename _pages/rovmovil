@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Robotica Móvil"
+permalink: /robmovil/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+WIP
+======
